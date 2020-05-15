@@ -9,5 +9,11 @@
       "search_url": "https://justgotothedamnurl.com/search?q={searchTerms}",
       "keyword": "justgo"
     }
+  },
+  "permissions": [
+    "webRequest", "webRequestBlocking", "https://justgotothedamnurl.com/search*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
   }
 }
