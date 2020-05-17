@@ -1,3 +1,5 @@
 .idea/
-justgotothedamnurl.zip
 sourcecode.zip
+/addon/background_scripts/
+/web-ext-artifacts/
+/node_modules/

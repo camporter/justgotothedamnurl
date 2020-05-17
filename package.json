@@ -1,0 +1,12 @@
+{
+  "name": "justgotothedamnurl-webextension",
+  "version": "1.2.0",
+  "dependencies": {
+    "normalize-url": "^4.5.0"
+  },
+  "devDependencies": {
+    "web-ext": "^4.2.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

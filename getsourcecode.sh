@@ -1,2 +1,3 @@
 #!/bin/sh
-zip -r -FS sourcecode.zip * --exclude '*.zip' --exclude '*.git'
+cd addon
+zip -r -FS ../sourcecode.zip * --exclude '*.zip' --exclude '*.git'
