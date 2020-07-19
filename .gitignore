@@ -3,3 +3,4 @@ sourcecode.zip
 /addon/background_scripts/
 /web-ext-artifacts/
 /node_modules/
+.DS_Store
