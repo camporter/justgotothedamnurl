@@ -1,6 +1,7 @@
 {
   "name": "justgotothedamnurl-webextension",
   "version": "1.2.1",
+  "license": "MIT",
   "dependencies": {
     "normalize-url": "^4.5.0"
   },
@@ -8,5 +9,9 @@
     "web-ext": "^4.3.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/camporter/justgotothedamnurl-webextension.git"
   }
 }
