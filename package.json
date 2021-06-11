@@ -3,7 +3,7 @@
   "version": "1.2.1",
   "license": "MIT",
   "dependencies": {
-    "normalize-url": "^4.5.0"
+    "normalize-url": "^4.5.1"
   },
   "devDependencies": {
     "web-ext": "^5.2.0",
